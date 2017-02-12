@@ -1,0 +1,60 @@
+body {
+    font: 1rem/1.4 "Times New Roman", Times, Georgia, serif;
+    width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    background: black url("../img/logo.png") no-repeat scroll 50% 50%;
+    height: 163.2px;
+    width: 640px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #418485;
+    font-weight: 500;
+}
+main p{
+    font-size: 13px;
+}
+
+div {
+    padding-left: 20px;
+    outline: solid 1px #ccc;
+    float: left;
+    width: 599px;
+    padding-right: 20px;
+    padding-top: 24px;
+    margin-bottom: 72px;
+}
+
+footer {
+    font: 1rem/1.4 Arial, Helvetica, sans-serif;
+    clear: both;
+    width: 600px;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+/*# sourceMappingURL=style.css.map */
+
+a {
+    color: green;
+}
+
+main {
+    float: left;
+    width: 380px;
+    margin-right: 19px;
+}
+
+aside {
+    float: left;
+    width: 200px;
+}
+aside p{
+    font-style: italic;
+}
