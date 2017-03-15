@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+#accordion {
+  width: 50%;
+}
+
+.menu-link {
+}
+
+.menu-link h2 {
+  line-height: 75px;
+  font-size: 20pt;
+  background-color: gray;
+  text-align: center;
+}
+
+.menu-list {
+  height: 0px;
+  overflow: hidden;
+  transition: 1s;
+  background-color: black;
+
+}
+
+.menu-list li {
+  line-height: 50px;
+  color: white;
+}
